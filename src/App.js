@@ -1,9 +1,10 @@
 import './App.css';
+import { NewHomes } from './ui-components';
 
 function App() {
   return (
     <div className="App">
-      <h2>Запустилось :)</h2>
+      <NewHomes />
     </div>
   );
 }
