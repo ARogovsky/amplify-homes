@@ -1,0 +1,20 @@
+{
+  "name": "advogram",
+  "version": "1.0.0",
+  "description": "This app showcases the recent features of AWS Amplify.",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARogovsky/amplify-homes.git"
+  },
+  "author": "unkd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARogovsky/amplify-homes/issues"
+  },
+  "homepage": "https://github.com/ARogovsky/amplify-homes#readme"
+}
