@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "advogram",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/sd/Documents/Process/HeyBoss/unkd/advogram/master/amplify/backend/api/advogram/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
