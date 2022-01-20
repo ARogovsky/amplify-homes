@@ -2,4 +2,4 @@
 
 This app showcases the recent features of AWS Amplify.
 
-# test
+# test 2
